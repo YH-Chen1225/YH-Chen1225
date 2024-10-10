@@ -3,9 +3,10 @@
   <img src="https://github.com/YH-Chen1225/YH-Chen1225/blob/main/Hello_Code.jpg" alt="Sublime's custom image" height="200" width = "500"/>
 </p>
 
-## How to reach me:
+## 📫 How to reach me:
 - Email Address: ua89622u@gmail.com
-- LinkedIn : www.linkedin.com/in/yu-hsin-chen-moses
+- LinkedIn : [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/yu-hsin-chen-moses)
+
 
 
 
