@@ -7,8 +7,17 @@
 - Email Address: ua89622u@gmail.com
 - LinkedIn : [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yu-hsin-chen-moses)
 
-
-
+## 💼 Jobs Experience:
+1. Quantitative Analysis Consultant Working Student
+   - Company: RIVACON/Energy Company
+   - Period: 09/2023-04/2024
+   - Brief Job Description: Intraday and Day-ahead energy market price and wind infeed analysis
+2. Full-Time Assistant Researcher
+   - Institution: National Taiwan University/Taiwan Academia Sinica
+   - Period: 02/2021-06/2021
+   - Brief Job Description: Long-term Taiwan food demand/supply analysis and prediction. Also, the literature review on extreme weather scenarios
+3. Marketing Intern
+   - Questionnaire design and analysis 
 
 
 
