@@ -17,7 +17,10 @@
    - Period: 02/2021-06/2021
    - Brief Job Description: Long-term Taiwan food demand/supply analysis and prediction. Also, the literature review on extreme weather scenarios
 3. Marketing Intern
-   - Questionnaire design and analysis 
+   - Company: Carousell
+   - Period: 04/2018-06/2018
+   - Brief Job Description: Questionnaire design and analysis 
+
 
 
 
