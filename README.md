@@ -5,6 +5,11 @@
 <!--
 **YH-Chen1225/YH-Chen1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## How to reach me:
+- Email Address: ua89622u@gmail.com
+- LinkedIn : www.linkedin.com/in/yu-hsin-chen-moses
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
