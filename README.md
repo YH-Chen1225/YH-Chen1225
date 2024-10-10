@@ -1,6 +1,6 @@
 ## Hallo Ich bin Yu-Hsin(Moses) Chen 👋
 <p align="center">
-  <img src="https://github.com/YH-Chen1225/YH-Chen1225/blob/main/Hello_Code.jpg" alt="Sublime's custom image"/>
+  <img src="https://github.com/YH-Chen1225/YH-Chen1225/blob/main/Hello_Code.jpg" alt="Sublime's custom image" wheight="200"/>
 </p>
 <!--
 **YH-Chen1225/YH-Chen1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
