@@ -1,5 +1,7 @@
 ## Hallo Ich bin Yu-Hsin(Moses) Chen 👋
-
+<p align="center">
+  <img src="[https://github.com/YH-Chen1225/EPP_Final/blob/master/src/Effective_Programming_Practice_for_Economist%C2%A0Final_Project.png](https://github.com/YH-Chen1225/YH-Chen1225/blob/main/Hello_Code.jpg)" alt="Sublime's custom image"/>
+</p>
 <!--
 **YH-Chen1225/YH-Chen1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
