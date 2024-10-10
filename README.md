@@ -5,7 +5,8 @@
 
 ## 📫 How to reach me:
 - Email Address: ua89622u@gmail.com
-- LinkedIn : [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/yu-hsin-chen-moses)
+- LinkedIn : [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yu-hsin-chen-moses)
+
 
 
 
