@@ -34,6 +34,11 @@ This project is the expansion of the paper "Comparison of Single and Ensemble Cl
 This is a small exercise that is aimed at discussing the pros and cons when comparing the linear regression models and regression tree models. In this exercise, the DGP which is suitable for linear regression models and regression tree was explicitly mentioned. The details can be found in the following repository.
 - [Data Generating Process and Simulation Exercise](https://github.com/YH-Chen1225/Data-Generating-Process-And-Simulation-Excercise)
 
+### Exercise Data Management and Plotting
+This is an exercise from the effective programming courses, and the exercise is based on the paper estimating the Technology of Cognitive and Noncognitive Skill Formation by Cunha, Heckman, and Schennach (CHS), Econometrica, 2010. The objective of the task is to manage the data in an elegant, effortless way by different function setups. In a large, dirty dataset(many non-informative or duplicate data), the task includes, filtering data according to the requirement, transposing, turning characteristical data into numeric data, and turning some data information into columns. Furthermore, automatically plotting several specified regression and correlation graphs is also required. The details of the task and the solution can be seen in the following repository.
+- [Data-Management-And-Ploting
+](https://github.com/YH-Chen1225/Data-Management-And-Ploting)
+
 <!--
 **YH-Chen1225/YH-Chen1225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
