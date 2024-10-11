@@ -23,7 +23,7 @@
 
 ## Project Experience
 ### Effective Programming Practice for Economist:
-This project replicates the paper Stefano DellaVigna and Devin Pope, 2018, "What Motivates Effort? Evidence and Expert Forecasts", Review of Economic Studies, 85(2): 1029–1069. But all the codes are rewritten in a more effective way compared with the original codes. The main contribution of the paper is to quantitatively bridge the rewards and people's efforts; based on different reward mechanisms setup, people make different levels of effort. The details can be found in the following repository. 
+This project replicates the paper Stefano DellaVigna and Devin Pope, 2018, "What Motivates Effort? Evidence and Expert Forecasts", Review of Economic Studies, 85(2): 1029–1069. The objective of this project is to rewrite all the codes in a more effective way and re-organize them. The main contribution of the paper is to quantitatively bridge the rewards and people's efforts by different functions; based on different reward mechanisms setup, people make different levels of effort. The details can be found in the following repository. 
 - [EPP_Final](https://github.com/YH-Chen1225/EPP_Final)
 
 <!--
