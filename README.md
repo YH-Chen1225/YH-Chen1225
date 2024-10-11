@@ -28,7 +28,7 @@ This project replicates the paper Stefano DellaVigna and Devin Pope, 2018, "What
 
 ### The analysis and comparison of the tree-based method with different simulation assumptions
 This project is the expansion of the paper Comparison of Single and Ensemble Classifiers of Support Vector Machine and Classification Tree. Journal of Mathematical Sciences and Applications, 2(2), 17-20 (Utami, I.T., et al., 2014). In this project, the classification problem is the main focus; however, instead of applying SVM, several tree-based methods are discussed, and bagging and boosting methods are also included. Furthermore, both large and small dataset scenarios are discussed in the project. ROC curve, confusion matrix, and misspecification rate are taken as evaluation criteria. The details can be found in the following repository.
-- [The analysis and comparison of the tree-based method with different simulation assumptions]([https://github.com/YH-Chen1225/EPP_Final](https://github.com/YH-Chen1225/The-analysis-and-comparison-of-the-tree-based-method-with-different-simulation-assumption))
+- [The analysis and comparison of the tree-based method with different simulation assumptions](https://github.com/YH-Chen1225/The-analysis-and-comparison-of-the-tree-based-method-with-different-simulation-assumption)
 
 
 <!--
