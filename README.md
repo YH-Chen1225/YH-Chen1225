@@ -31,7 +31,7 @@ This project is the expansion of the paper "Comparison of Single and Ensemble Cl
 - [The analysis and comparison of the tree-based method with different simulation assumptions](https://github.com/YH-Chen1225/The-analysis-and-comparison-of-the-tree-based-method-with-different-simulation-assumption)
 
 ### Social Media Analysis of Disney Plus
-This project is aiming at conducting a comprehensive analysis of Disney Plus from social media perspectives. The analysis has been done in the following sub-sectors: Real-time reaction according to the recent release of the Movie or series.Moreover, a sentiment analysis will be conducted on Twitter, YouTube, and Reddit. On top of that, we will analyze the impact of influencers' opinions on the platform and offer feasible improvements to the streaming platform. This project requires natural language processing skills(#NLP) and Web-scrawling skills. The full version of analysis with the codes can be found in following repository
+This project is aiming at conducting a comprehensive analysis of Disney Plus from social media perspectives. The analysis has been done in the following sub-sectors: Real-time reaction according to the recent release of the Movie or series, a sentiment analysis will be conducted based on the text from Twitter, YouTube, and Reddit. On top of that, we will analyze the impact of influencers' opinions on the platform and offer feasible improvements to the platform. This project requires natural language processing skills(NLP) and Web-scrawling skills. The full version of the analysis with the codes can be found in the following repository
 - [Social Media Analysis of Disney Plus](https://github.com/YH-Chen1225/Text-Mining-DisneyPlus?tab=readme-ov-file)
 
 
