@@ -35,6 +35,10 @@ The details can be seen in the following repository.
 This project is the expansion of the paper "Comparison of Single and Ensemble Classifiers of Support Vector Machine and Classification Tree". Journal of Mathematical Sciences and Applications, 2(2), 17-20 (Utami, I.T., et al., 2014). In this project, the classification problem is the main focus; however, instead of applying SVM, several tree-based methods are discussed, and bagging and boosting methods are also included. Furthermore, both large and small dataset scenarios are discussed in the project. ROC curve, confusion matrix, and misspecification rate are taken as evaluation criteria. The details can be found in the following repository.
 - [The analysis and comparison of the tree-based method with different simulation assumptions](https://github.com/YH-Chen1225/The-analysis-and-comparison-of-the-tree-based-method-with-different-simulation-assumption)
 
+### PowerBI Project-Adventureworks
+The project is mainly focused on Adventureworks business analytics. The process includes data pre-processing in the power query editor, relational data model building up, calculating fields with DAX, and data visualization with an interactive dashboard
+- [PowerBI Project-Adventureworks](https://github.com/YH-Chen1225/PowerBI_Project/tree/main)
+
 ### Social Media Analysis of Disney Plus
 This project is aiming at conducting a comprehensive analysis of Disney Plus from social media perspectives. The analysis has been done in the following sub-sectors: Real-time reaction according to the recent release of the Movie or series, a sentiment analysis will be conducted based on the text from Twitter, YouTube, and Reddit. On top of that, we will analyze the impact of influencers' opinions on the platform and offer feasible improvements to the platform. This project requires natural language processing skills(NLP) and Web-scrawling skills. The full version of the analysis with the codes can be found in the following repository
 - [Social Media Analysis of Disney Plus](https://github.com/YH-Chen1225/Text-Mining-DisneyPlus?tab=readme-ov-file)
