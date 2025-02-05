@@ -36,7 +36,7 @@ This project is the expansion of the paper "Comparison of Single and Ensemble Cl
 - [The analysis and comparison of the tree-based method with different simulation assumptions](https://github.com/YH-Chen1225/The-analysis-and-comparison-of-the-tree-based-method-with-different-simulation-assumption)
 
 ### PowerBI Project-Adventureworks
-The project is mainly focused on Adventureworks business analytics. The process includes data pre-processing in the power query editor, relational data model building up, calculating fields with DAX, and data visualization with an interactive dashboard
+This project is aiming at conducting comprehensive business analytics for a bike-producing company, Adventureworks, in PowerBI. The analytical process includes data pre-processing in Power Query Editor, Relational Data Model building up, calculating fields with DAX, and data visualization with an interactive dashboard. The interactive dashboard started from general KPIs such as revenue, orders, and returns. After, it would gradually dive into the details of product and customer analytics with various business metrics and trend plots. Furthermore, there are also several slicers allowing users to further drill down to the specific year, month, or specific sub-category of the product to have a clear picture of the company's business status.
 - [PowerBI Project-Adventureworks](https://github.com/YH-Chen1225/PowerBI_Project/tree/main)
 
 ### Social Media Analysis of Disney Plus
